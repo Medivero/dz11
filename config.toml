@@ -1,0 +1,4 @@
+username = "user"
+fs_path = "filesystem.zip"
+log_file = "log.xml"
+startup_script = "startup.sh"
